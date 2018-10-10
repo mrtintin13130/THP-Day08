@@ -4,9 +4,9 @@ Le programme "twitter_program.rb" est le projet principale !
 
 Lors du lancement du programme :
 
-'''ruby
+```
   ruby twitter_program.rb
-end
+```
 
 Le menu suivant s'affiche :
 
